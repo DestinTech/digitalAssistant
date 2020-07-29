@@ -46,9 +46,12 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+/*end of stylesheet reset */
+/*beginning of website css*/
 html{
-    
+    background-color:#e0e0e0;
+
+
 }
 header{
     width:100vw;
@@ -95,6 +98,22 @@ header{
 }
 
 
+.titles{
+    font-size:200%;
+    display:inline;
+    
+}
+
+.material-icons{
+    float:right;
+    
+}
+.tasks{
+    min-height:1em;
+    background-color:#212121;
+    margin:1em;
+    padding:1em;
+}
 /* 
 primary: #212121
 
